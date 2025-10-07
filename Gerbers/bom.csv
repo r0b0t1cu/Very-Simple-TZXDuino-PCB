@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Arduino_Nano,1,Arduino Nano,
+J1,PinHeader_1x05_P2.54mm_Vertical,1,OUTPUT,
+J2,PinHeader_1x06_P2.54mm_Vertical,1,SD CARD,
+J3,PinHeader_1x04_P2.54mm_Vertical,1,DISPLAY,
+SW1,SW_PUSH_6mm,1,Play,
+SW2,SW_PUSH_6mm,1,Stop,
+SW3,SW_PUSH_6mm,1,Menu,
+SW4,SW_PUSH_6mm,1,Down,
+SW5,SW_PUSH_6mm,1,Up,
