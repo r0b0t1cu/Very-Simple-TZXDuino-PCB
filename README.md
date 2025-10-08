@@ -7,6 +7,8 @@ A very simple, open-source PCB design for the TZXDuino, an Arduino-based ZX Spec
 
 Perfect for retro computing enthusiasts wanting a compact, reliable TZX player for their ZX Spectrum or ZX Spectrum clones!
 
+![PCB with components](Images/IMG_0402.JPG)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -37,13 +39,15 @@ To build this project, you'll need:
   - 2.54mm pin header (for connections)
   - 5x tactile push buttons (momentary switches)
   - Basic soldering tools, wires, and prototyping breadboard (optional for testing)
-
+ 
 - **Software/Tools**:
   - KiCad (for viewing/editing design files)
   - Arduino IDE (for flashing firmware)
   - ZX Spectrum TZX files (load onto SD card)
 
 Total estimated cost: Under $20 excluding tools.
+
+![PCB with components powered](Images/IMG_0406.JPG)
 
 ## Build Instructions
 
@@ -81,6 +85,8 @@ This project includes pre-built binaries and source code for [MaxDuino](https://
   - Make sure to change this line `const int chipSelect = 10;` in the sketch with `const int chipSelect = 4;` before flashing.
 
 Both are free and open source. Customize as needed!
+
+![Testing](Images/IMG_0409.JPG)
 
 ## Schematics & Design Files
 
